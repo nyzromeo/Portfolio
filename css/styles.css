@@ -1,14 +1,14 @@
 /* 
 
-Project Name: Cookie Monster 
-Client: Cookie Monster
-Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
+Project Name: Portfolio Challenge
+Client: Eric
+Author: Eric
 Developed @ One Month in NYC 
 
 */
 
 body {
-  background: url(/ProfolioChallenge/img/headshot.jpg);
+  background: url(/img/headshot.jpg);
   /* the follow is the code to have the image display as a full page */
   background-position: right;
   background-attachment: fixed;
